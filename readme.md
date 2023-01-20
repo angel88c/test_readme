@@ -22,13 +22,13 @@ El proyecto trabaja solamente con windows 10/11, para previas versiones de windo
 
 ## Instalación
 
-1. Descargue e instale la version de .Net 6 Desktop runtime, la versión recomendada es la 6.0.9 de la página oficial de microsoft; seleccione .Net 6 Desktop runtime 6.0.9 dependiendo de su arquitectura de windows x86 o x64 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+1. Descargue e instale la version de .Net 6 Desktop runtime, la versión recomendada es la 6.0.9 de la página oficial de microsoft; seleccione .Net 6 Desktop runtime 6.0.9 dependiendo de su arquitectura de windows x86 o x64 https://dotnet.microsoft.com/en-us/download/dotnet/6.0 Descargue de la página oficial de Microsoft o de la carpeta descargada en el punto 3.
 
     <img src="./images/.net1.png">
     <br><br>
     <img src="./images/.net2.png">
 
-2. Descargue e instale python para windows, la versión recomendada para desarrollar sus programas para el iBScrypter es la versión 3.9.13, descargue de la página oficial de python.
+2. Descargue e instale python para windows, la versión recomendada para desarrollar sus programas para el iBScrypter es la versión 3.9.13, descargue de la página oficial de python o de la carpeta descargada en el punto 3.
 
     https://www.python.org/downloads/release/python-3913/
 
