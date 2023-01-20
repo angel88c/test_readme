@@ -16,7 +16,7 @@ El proyecto trabaja solamente con windows 10/11, para previas versiones de windo
 
 * Net 6 runtime version 6.0.9
 
-* Python version 3.9.13
+*  <img src="./images/Python-Dark.svg" width="48"> Python version 3.9.13
 
 * iBscrypter
 
