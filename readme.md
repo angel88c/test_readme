@@ -87,6 +87,6 @@ Asegúrese de que la ruta esté entre comillas dobles para evitar errores cuando
     ```text
     [11.19.2022 17:21:01.467] Script was Loaded. without syntax errors.
     ```
- 
+  
 
 Con esto ya podrá desarrollar sus propios programas de script en python para sus estaciones de automatización.
